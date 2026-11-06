@@ -26,7 +26,7 @@ I use GitHub to document what I learn and share the projects I work on. Most of 
 
 **01.** [VLAN-Based Office Network](https://github.com/almahfujmahi/vlan-based-office-network)
 
-**02.** [Small Office Network](https://github.com/almahfujmahi/small-office-network)
+**02.** [Decision maker by mahi](https://github.com/almahfujmahi/Decision-Maker-by-Mahi)
 
 **03.** [Traffic Light Controller](https://github.com/almahfujmahi/traffic_light_proteus)
 
